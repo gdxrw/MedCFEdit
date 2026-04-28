@@ -12,10 +12,10 @@ run 'model_train.py'. (The code for the model module will be open-sourced during
 
 ### 4、Model
 model:
-![model](./images/model.jpg "model")
+![model](./images/model.pdf "model")
 
 energy:
 
-![energy](./images/energy.jpg "energy")
+![energy](./images/energy.pdf "energy")
 
 
