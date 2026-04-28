@@ -16,6 +16,6 @@ model:
 
 energy:
 
-![energy](./images/energy.png "energy")
+![energy](./images/Energy.png "energy")
 
 
