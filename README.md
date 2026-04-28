@@ -14,8 +14,14 @@ run 'model_train.py'. (The code for the model module will be open-sourced during
 model:
 ![model](./images/model.png "model")
 
-energy:
 
+result:
+![result](./images/result.png "result")
+
+energy:
 ![energy](./images/Energy.png "energy")
+
+TSNE:
+![TSNE](./images/TSNE.png "TSNE")
 
 
